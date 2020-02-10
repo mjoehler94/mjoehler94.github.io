@@ -16,7 +16,7 @@ I'm also lucky to be married to an incredible woman who supports me in all that 
             <img src="images/jump.jpg" width = 400>
         </td>
         <td>
-            <img src="![Image of fast.ai logo](images/together.jpg)" width = 400>
+	    ![Image of fast.ai logo](images/together.jpg)
         </td>
 	<td>
             <img src="images/doctormeme.jpg" width = 400>
