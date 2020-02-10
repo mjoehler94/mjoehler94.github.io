@@ -1,7 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Matt Oehler's Posts and Projects
+___
 
-![Image of fast.ai logo](images/logo.png)
+## Pinned Posts
 
-## This is a title
+[**About Me**]()
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Medium Articles
+
+[**How to Create Your Own Image Dataset for Deep Learning**](https://towardsdatascience.com/how-to-create-your-own-image-dataset-for-deep-learning-b53f1c22c443)
+
+[**Learning Argparse by Example**](https://medium.com/swlh/learning-argparse-by-example-299c3f35f2b5)
