@@ -20,3 +20,10 @@ I'm also lucky to be married to an incredible woman who supports me in all that 
         </td>
     </tr>
 </table>
+
+
+![Image of fast.ai logo](images/together.jpg)
+
+![Image of fast.ai logo](images/jump.jpg)
+
+![Image of fast.ai logo](images/doctormeme.jpg)
