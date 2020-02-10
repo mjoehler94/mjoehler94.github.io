@@ -3,7 +3,7 @@ ___
 
 ## Pinned Posts
 
-[**About Me**]()
+[**About Me**](https://mjoehler94.github.io/about.html)
 
 ## Medium Articles
 
