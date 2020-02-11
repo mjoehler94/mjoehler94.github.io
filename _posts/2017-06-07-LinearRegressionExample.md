@@ -1,11 +1,11 @@
-# Title
-> summary
+# Simple Linear Regression
+> a walk through for beginners
 
 
 # Simple Linear Regression
  
  
- ## Car Weight & Mileage
+## Car Weight & Mileage
 
 
 
