@@ -1,4 +1,4 @@
-# Matt Oehler's Posts and Projects
+# Posts and Projects
 ___
 
 ## Pinned Posts

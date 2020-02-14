@@ -8,5 +8,4 @@ I lead a a very active lifestyle, and I'm currently participating in several rec
 I'm also lucky to be married to an incredible woman who supports me in all that I do and even competes alongside me in several of the sports leagues I just mentioned.
 
 
-
 ![](images/aboutMe/all_three.png)
