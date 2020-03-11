@@ -13,10 +13,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/mattoehler/)
 ![](images/aboutMe/all_three.png)
 
 
-## Education
+### Education
 ___
 #### **Brigham Young University –  College of Physical and Mathematical Sciences**
-- *Bachelors of Statistics | Minor in Mathematics*
+- *Bachelors of Statistics*
+- *Minor in Mathematics*
 
 #### **Relevant Courses**
 **Bolded** courses are graduate level
@@ -33,18 +34,18 @@ ___
 - Data Structures (CS 235)
 - Advanced Programming Concepts (CS 240)
     
-## Relevant Projects
+### Relevant Projects
 ___
 - Portfolio and Publications: https://mjoehler94.github.io
 - Github Repositories: https://github.com/mjoehler94
 
-## Skills
+### Skills
 ___
 - Python, R/R-Shiny, SQL, Java, C++, JAGS, Git, LaTeX
 - Communication - public speaking, giving presentations, explaining project details at an executive level
 - Korean Language - speaking, reading, and writing
 
-## Experience
+### Experience
 ___
 #### **Progressive Leasing**
 *Data Analyst – Risk Operations Team*
@@ -80,6 +81,6 @@ ___
 - Modeled online customer behavior using logistic regression
 - Scheduled report deadlines and delegated team assignments to ensure timely completion of the project
 
-#### Other
+### Other
 ___                               
 - Repeat publisher on https://towardsdatascience.com
