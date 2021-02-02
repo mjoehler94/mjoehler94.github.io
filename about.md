@@ -1,11 +1,10 @@
 # About Me
 
-My name is Matt Oehler. I received my bachelors degree in statistics from Brigham Young Univeristy, and now I'm working as a data analyst at Progressive Leasing in Draper, Utah. I specifically work on the fraud detection/prevention team and I absolutely love it. 
+My name is Matt Oehler. I received my bachelors degree in statistics from Brigham Young Univeristy, and now I'm working as a data analyst at Progressive Leasing in Draper, Utah. I specifically work on the fraud detection/prevention team have been enjoying that so far. I have a passion for using code to solve problems more efficiently. 
 
-Outside of work, I do my best to live life to its fullest, and I feel incredibly blessed to be surrounded with the means and  opportunities to do so.
-I lead a a very active lifestyle, and I'm currently participating in several recreation sports leagues for basketball, volleyball, and ultimate frisbee. Other things I enjoy include hiking, wakeboarding, learning everyday, and programmer memes.
+Outside of work, I do my best to lead an active life and spend time with family. Whenever possible, I like to participate in recreational leauges for basketball, soccer, ultimate frisbee, and most recently disc golf (as it is more COVID friendly than the team sports I like). Other things I enjoy include hiking, wakeboarding, learning everyday, and programmer memes.
 
-I'm also lucky to be married to an incredible woman who supports me in all that I do and even competes alongside me in several of the sports leagues I just mentioned.
+I'm also lucky to be married to an incredible woman who supports me in all that I do.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/mattoehler/)
 
@@ -48,7 +47,7 @@ ___
 ### Experience
 ___
 #### **Progressive Leasing**
-*Data Analyst – Risk Operations Team*
+*Data Analyst – Data Science/Risk Ops Team*
 - Develop and quantify the impact of new fraud prevention systems to mitigate financial damages from fraud
 - Designed and automated data flow to identify characteristics and behavior of fraudulent customers
 
