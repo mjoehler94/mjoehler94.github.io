@@ -1,6 +1,6 @@
 # About Me
 
-My name is Matt Oehler. I received my bachelors degree in statistics from Brigham Young Univeristy, and now I'm working as a data analyst at Progressive Leasing in Draper, Utah. I specifically work on the fraud detection/prevention team have been enjoying that so far. I have a passion for using code to solve problems more efficiently. 
+My name is Matt Oehler. I received my bachelors degree in statistics from Brigham Young Univeristy, and now I'm working as a machine learning engineer at Progressive Leasing in Draper, Utah and I absolutely love it. 
 
 Outside of work, I do my best to lead an active life and spend time with family. Whenever possible, I like to participate in recreational leauges for basketball, soccer, ultimate frisbee, and most recently disc golf (as it is more COVID friendly than the team sports I like). Other things I enjoy include hiking, wakeboarding, learning everyday, and programmer memes.
 
